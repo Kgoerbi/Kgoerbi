@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kgoerbi
-- 👀 I’m programming since 2017 Arduino and other micro controllers with c++ and I know the basics of C# and C++, as well as good knowledge of python and java.
+- 👀 ...
 - 🌱 ... 
 
 <!---
